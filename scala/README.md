@@ -1,3 +1,5 @@
+[Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-scala)
+
 # Scala
 
 * Compile: `/usr/bin/scalac Main.scala`
