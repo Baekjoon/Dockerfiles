@@ -44,6 +44,7 @@
 * kotlin:0.12: Kotlin
 * lolcode:0.11: LOLCODE
 * lua:5.2: Lua
+* malbolge:1.0: Malbolge
 * nasm:2.10: Assembly (32bit)
 * nemerle:1.2: Nemerle
 * nim:0.11.2: Nim
