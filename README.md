@@ -24,6 +24,7 @@
 * erlang:5.10: Erlang
 * factor:0.97: Factor
 * falcon:0.9.6: Falcon
+* fantom:1.0.67: Fantom
 * fbc:1.03: FreeBASIC
 * forth:0.7.0: Forth
 * fortran:4.8: Fortran
