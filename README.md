@@ -3,6 +3,7 @@
 * base:14.04: Ubuntu 14.04
 * base:12.04: Ubuntu 12.04
 * ada:4.8: Ada
+* aheui:1.0: 아희
 * algol68:2.4.1: Algol 68
 * alice:1.4: Alice ML
 * awk:4.0.1: awk
