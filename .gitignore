@@ -10,3 +10,4 @@ Session.vim
 *.py
 *.pyc
 *.sh
+!script/*.sh
