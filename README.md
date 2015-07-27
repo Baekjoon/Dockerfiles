@@ -60,6 +60,7 @@
 * php:5.5: PHP
 * pike:7.8: Pike
 * prolog:6.6.4: Prolog
+* pypy3:2.4.0: PyPy3
 * pypy:2.6.0: PyPy
 * r:3.0: R
 * rhino:1.7: Rhino
