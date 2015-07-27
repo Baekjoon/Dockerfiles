@@ -37,6 +37,7 @@
 * haskell:7.6.3: Haskell
 * haxe:3.2: Haxe
 * hhvm:3.7.2: PHP (HHVM)
+* icon:9.5.1: Icon
 * intercal:29.0: Intercal
 * io:2013.12.04: Io
 * j:803: J
