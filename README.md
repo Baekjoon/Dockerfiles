@@ -32,6 +32,7 @@
 * fsharp:3.0: F#
 * gcc:4.8: Bash, C, C++, C++11, Perl 5, Python, Python3, Text, sed
 * go:1.4.2: Go
+* golfscript:20130430: Golfscript
 * gosu:1.6.1: Gosu
 * groovy:1.8.6: Groovy
 * haskell:7.6.3: Haskell
