@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-csharp)
 
-# C# 2.0
+# C\# 2.0
 
 * Compile: `/usr/bin/gmcs -warn:0 -optimize+ Main.cs`
 * Execute: `/usr/bin/mono Main.exe`
@@ -22,7 +22,7 @@ public class Program {
 ````
 
 
-# C# 4.0
+# C\# 4.0
 
 * Compile: `/usr/bin/dmcs -warn:0 -optimize+ -reference:System.Numerics.dll Main.cs`
 * Execute: `/usr/bin/mono Main.exe`
