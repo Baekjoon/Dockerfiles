@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-tcl)
 
-# Tcl
+# Tcl 
 
 * Execute: `/usr/bin/tclsh8.6 Main.tcl`
 * File Extension: `tcl`

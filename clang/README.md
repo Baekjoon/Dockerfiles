@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-clang)
 
-# C (Clang)
+# C (Clang) 
 
 * Compile: `/usr/bin/clang Main.c -o Main -O2 -Wall -DONLINE_JUDGE -std=c99`
 * Execute: `./Main`
@@ -18,7 +18,7 @@ int main() {
 ````
 
 
-# C++ (Clang)
+# C++ (Clang) 
 
 * Compile: `/usr/bin/clang++ Main.cc -o Main -O2 -Wall -std=c++11 -DONLINE_JUDGE`
 * Execute: `./Main`

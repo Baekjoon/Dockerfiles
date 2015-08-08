@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-julia)
 
-# Julia
+# Julia 
 
 * Execute: `/usr/bin/julia Main.jl`
 * File Extension: `jl`

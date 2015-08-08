@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-scheme)
 
-# Scheme
+# Scheme 
 
 * Execute: `/usr/bin/scm -f Main.scm`
 * File Extension: `scm`

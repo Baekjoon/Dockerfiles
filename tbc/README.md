@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-tbc)
 
-# Befunge
+# Befunge 
 
 * Compile: `/tbc Main.bf > Main.c && /usr/bin/gcc -o Main Main.c`
 * Execute: `./Main`

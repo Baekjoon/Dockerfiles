@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-java)
 
-# Java 6
+# Java 6 
 
 * Compile: `/usr/bin/javac -J-Xms32m -J-Xmx256m  -encoding UTF-8 Main.java`
 * Execute: `/usr/bin/java -Xms32m -Xmx512m Main`
@@ -21,7 +21,7 @@ public class Main{
 ````
 
 
-# Java 7
+# Java 7 
 
 * Compile: `/usr/bin/javac -J-Xms32m -J-Xmx256m  -encoding UTF-8 Main.java`
 * Execute: `/usr/bin/java -Xms32m -Xmx512m Main`
@@ -42,7 +42,7 @@ public class Main{
 ````
 
 
-# Java 8
+# Java 8 
 
 * Compile: `/usr/bin/javac -J-Xms32m -J-Xmx256m  -encoding UTF-8 Main.java`
 * Execute: `/usr/bin/java -Xms32m -Xmx512m Main`

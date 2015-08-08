@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-clisp)
 
-# Common Lisp
+# Common Lisp 
 
 * Compile: `/usr/bin/clisp -q -c Main.lisp -o Main`
 * Execute: `/usr/bin/clisp Main.fas`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-malbolge)
 
-# Malbolge
+# Malbolge 
 
 * Execute: `/usr/local/bin/malbolge Main.mal`
 * File Extension: `mal`

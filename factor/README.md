@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-factor)
 
-# Factor
+# Factor 
 
 * Execute: `/factor/factor Main.factor`
 * File Extension: `factor`

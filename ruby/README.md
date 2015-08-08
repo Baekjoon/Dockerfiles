@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-ruby)
 
-# Ruby 1.8
+# Ruby 1.8 
 
 * Compile: `/usr/bin/ruby -c Main.rb`
 * Execute: `/usr/bin/ruby Main.rb`
@@ -13,7 +13,7 @@ puts a.to_i + b.to_i
 ````
 
 
-# Ruby 1.9
+# Ruby 1.9 
 
 * Compile: `/usr/bin/ruby1.9.3 -c Main.rb`
 * Execute: `/usr/bin/ruby1.9.3 Main.rb`
@@ -26,7 +26,7 @@ puts a.to_i + b.to_i
 ````
 
 
-# Ruby 2.2
+# Ruby 2.2 
 
 * Compile: `/usr/local/bin/ruby -c Main.rb`
 * Execute: `/usr/local/bin/ruby Main.rb`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-gcc)
 
-# Bash
+# Bash 
 
 * Execute: `/bin/bash Main.sh`
 * File Extension: `sh`
@@ -12,7 +12,7 @@ echo $(($a+$b))
 ````
 
 
-# C
+# C 
 
 * Compile: `/usr/bin/gcc Main.c -o Main -O2 -Wall -lm --static -std=c99 -DONLINE_JUDGE`
 * Execute: `./Main`
@@ -30,7 +30,7 @@ int main() {
 ````
 
 
-# C++
+# C++ 
 
 * Compile: `/usr/bin/g++ Main.cc -o Main -O2 -Wall -lm --static -DONLINE_JUDGE`
 * Execute: `./Main`
@@ -49,7 +49,7 @@ int main() {
 ````
 
 
-# C++11
+# C++11 
 
 * Compile: `/usr/bin/g++ Main.cc -o Main -O2 -Wall -lm --static -std=c++11 -DONLINE_JUDGE`
 * Execute: `./Main`
@@ -68,7 +68,7 @@ int main() {
 ````
 
 
-# Perl 5
+# Perl 5 
 
 * Compile: `/usr/bin/perl -c Main.pl`
 * Execute: `/usr/bin/perl Main.pl`
@@ -86,7 +86,7 @@ print $ans;
 ````
 
 
-# Python
+# Python 
 
 * Compile: `/usr/bin/python -c "import py_compile; py_compile.compile(r'Main.py')"`
 * Execute: `/usr/bin/python Main.py`
@@ -101,7 +101,7 @@ print a + b
 ````
 
 
-# Python3
+# Python3 
 
 * Compile: `/usr/bin/python3 -c "import py_compile; py_compile.compile(r'Main.py')"`
 * Execute: `/usr/bin/python3 Main.py`
@@ -116,7 +116,7 @@ print(a + b)
 ````
 
 
-# Text
+# Text 
 
 * Execute: `/bin/cat Main.txt`
 * File Extension: `txt`
@@ -127,7 +127,7 @@ Hello World!
 ````
 
 
-# sed
+# sed 
 
 * Execute: `/bin/sed -f Main.sed`
 * File Extension: `sed`

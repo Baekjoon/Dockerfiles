@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-objc)
 
-# Objective-C
+# Objective-C 
 
 * Compile: `/usr/bin/gcc `gnustep-config --objc-flags` -o Main Main.m -I/usr/include/GNUstep -L/usr/lib/GNUstep -lobjc -lgnustep-base -Wall -std=c99`
 * Execute: `./Main`
@@ -22,7 +22,7 @@ int main (void)
 ````
 
 
-# Objective-C++
+# Objective-C++ 
 
 * Compile: `/usr/bin/g++ `gnustep-config --objc-flags` -o Main Main.mm -I/usr/include/GNUstep -L/usr/lib/GNUstep -lobjc -lgnustep-base -Wall`
 * Execute: `./Main`

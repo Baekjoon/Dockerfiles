@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-smalltalk)
 
-# Smalltalk
+# Smalltalk 
 
 * Execute: `gst Main.st`
 * File Extension: `st`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-intercal)
 
-# Intercal
+# Intercal 
 
 * Compile: `/usr/bin/ick Main.i`
 * Execute: `./Main`

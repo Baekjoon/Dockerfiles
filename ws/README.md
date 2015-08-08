@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-ws)
 
-# Whitespace
+# Whitespace 
 
 * Execute: `/WSpace/wspace Main.ws`
 * File Extension: `ws`

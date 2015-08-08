@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-vb)
 
-# VB.NET 2.0
+# VB.NET 2.0 
 
 * Compile: `/usr/bin/vbnc2 /nowarn /optimize+ Main.vb`
 * Execute: `/usr/bin/mono Main.exe`
@@ -21,7 +21,7 @@ End Module
 ````
 
 
-# VB.NET 4.0
+# VB.NET 4.0 
 
 * Compile: `/usr/bin/vbnc /nowarn /optimize+ /reference:System.Numerics.dll Main.vb`
 * Execute: `/usr/bin/mono Main.exe`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-squirrel)
 
-# Squirrel
+# Squirrel 
 
 * Execute: `/SQUIRREL3/bin/sq Main.nut`
 * File Extension: `nut`

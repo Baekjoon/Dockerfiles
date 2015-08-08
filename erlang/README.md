@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-erlang)
 
-# Erlang
+# Erlang 
 
 * Compile: `/usr/bin/escript -s Main.erl`
 * Execute: `/usr/bin/escript Main.erl`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-prolog)
 
-# Prolog
+# Prolog 
 
 * Compile: `/usr/bin/swipl -q -g main,halt -t 'halt(1)' -o Main -c Main.pl`
 * Execute: `./Main`

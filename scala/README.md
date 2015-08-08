@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-scala)
 
-# Scala
+# Scala 
 
 * Compile: `/usr/bin/scalac Main.scala`
 * Execute: `/usr/bin/env JAVA_OPTS="-Xms32m -Xmx512m" /usr/bin/scala Main`

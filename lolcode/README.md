@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-lolcode)
 
-# LOLCODE
+# LOLCODE 
 
 * Execute: `/usr/local/bin/lci Main.lol`
 * File Extension: `lol`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-nim)
 
-# Nim
+# Nim 
 
 * Compile: `/Nim/bin/nim compile Main.nim`
 * Execute: `./Main`

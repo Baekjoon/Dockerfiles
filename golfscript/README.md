@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-golfscript)
 
-# Golfscript
+# Golfscript 
 
 * Execute: `/golfscript.rb Main.gs`
 * File Extension: `gs`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-coffee)
 
-# CoffeeScript
+# CoffeeScript 
 
 * Compile: `/usr/local/bin/coffee -c Main.coffee`
 * Execute: `/usr/bin/node Main.js`

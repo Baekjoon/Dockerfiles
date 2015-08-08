@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-elixir)
 
-# Elixir
+# Elixir 
 
 * Execute: `/usr/local/bin/elixir Main.exs`
 * File Extension: `exs`

@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-groovy)
 
-# Groovy
+# Groovy 
 
 * Compile: `/usr/bin/groovyc Main.groovy`
 * Execute: `/usr/bin/env JAVA_OPTS="-Xms32m -Xmx512m" /usr/bin/groovy Main`

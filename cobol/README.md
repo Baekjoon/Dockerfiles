@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-cobol)
 
-# Cobol
+# Cobol 
 
 * Compile: `/usr/bin/cobc -x -O2 -o Main Main.cob`
 * Execute: `./Main`

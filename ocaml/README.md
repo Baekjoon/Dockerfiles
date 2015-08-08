@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-ocaml)
 
-# OCaml
+# OCaml 
 
 * Compile: `/usr/bin/ocamlc -o Main Main.ml`
 * Execute: `/usr/bin/ocamlrun Main`

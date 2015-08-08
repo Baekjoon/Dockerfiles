@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-pascal)
 
-# Pascal
+# Pascal 
 
 * Compile: `/usr/bin/fpc Main.pas -O2 -Co -Ct -Ci`
 * Execute: `./Main`

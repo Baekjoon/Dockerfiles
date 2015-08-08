@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-fantom)
 
-# Fantom
+# Fantom 
 
 * Execute: `fan Main.fan`
 * File Extension: `fan`

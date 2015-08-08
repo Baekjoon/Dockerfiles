@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-lua)
 
-# Lua
+# Lua 
 
 * Compile: `/usr/bin/luac -p Main.lua`
 * Execute: `/usr/bin/lua Main.lua`

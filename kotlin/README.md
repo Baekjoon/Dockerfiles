@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-kotlin)
 
-# Kotlin
+# Kotlin 
 
 * Compile: `/kotlin/kotlinc/bin/kotlinc-jvm Main.kt -include-runtime -d Main.jar`
 * Execute: `/usr/bin/java -Xms32m -Xmx512m -jar Main.jar`

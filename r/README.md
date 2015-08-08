@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-r)
 
-# R
+# R 
 
 * Execute: `/usr/bin/Rscript Main.R`
 * File Extension: `R`

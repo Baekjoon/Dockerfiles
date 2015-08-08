@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-ada)
 
-# Ada
+# Ada 
 
 * Compile: `/usr/bin/gnatmake -o Main Main.ada`
 * Execute: `./Main`

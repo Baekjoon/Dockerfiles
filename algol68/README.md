@@ -1,6 +1,6 @@
 [Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-algol68)
 
-# Algol 68
+# Algol 68 
 
 * Compile: `/usr/bin/a68g --check Main.a68`
 * Execute: `/usr/bin/a68g Main.a68`
