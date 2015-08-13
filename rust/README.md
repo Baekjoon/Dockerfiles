@@ -5,7 +5,7 @@
 * Compile: `/usr/local/bin/rustc -O -o Main Main.rs`
 * Execute: `./Main`
 * File Extension: `rs`
-* Version: `rustc 1.1.0 (35ceea399 2015-06-19)`
+* Version: `rustc 1.2.0 (082e47636 2015-08-03)`
 * Baekjoon Online Judge [Problem 1000](https://www.acmicpc.net/problem/1000) Sample Source
 ````
 use std::io;

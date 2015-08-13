@@ -69,7 +69,7 @@
 * ruby:1.8.7: Ruby 1.8
 * ruby:1.9.3: Ruby 1.9
 * ruby:2.2.2: Ruby 2.2
-* rust:1.1.0: Rust
+* rust:1.2.0: Rust
 * scala:2.9: Scala
 * scheme:5: Scheme
 * smalltalk:3.2: Smalltalk
