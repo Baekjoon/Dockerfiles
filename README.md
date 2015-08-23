@@ -56,6 +56,7 @@
 * nodejs:0.10: node.js
 * objc:4.8: Objective-C, Objective-C++
 * ocaml:4.01: OCaml
+* octave:3.8.1: Octave
 * oz:1.4: Oz
 * pascal:2.6.2: Pascal
 * perl:6: Perl6
